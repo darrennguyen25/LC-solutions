@@ -2,7 +2,9 @@
 Datadog LC coding question
 
 Description:
-There iare a stream that has coming tags and also has a list of keywords, design a high performance filter to output thes keywords remaining tags. 
+There is  a stream that has coming tags and also has a list of keywords. 
+Design a high performance filter to output these keywords remaining tags. 
+
 For example, a given stream: 
 ['apple, facebook, google', 
  'banana, facebook',
